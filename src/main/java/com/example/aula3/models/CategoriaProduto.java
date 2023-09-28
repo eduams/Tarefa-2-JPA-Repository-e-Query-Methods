@@ -47,7 +47,7 @@ public class CategoriaProduto {
         return produtos;
     }
 
-    public void setCursos(List<Produto> produtos) {
+    public void setProdutos(List<Produto> produtos) {
         this.produtos = produtos;
     }
 }
